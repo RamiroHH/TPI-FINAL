@@ -217,4 +217,3 @@ def guemes():
       print("La campaña terminó y tomaste tanto decisiones adecuadas como algunas mejorables, sin embargo, esto no quita reconocerte como un gaucho aguerrido.")
 
     print("Fin de la historia")
-guemes()

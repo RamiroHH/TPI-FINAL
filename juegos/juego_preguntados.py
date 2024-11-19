@@ -4,7 +4,7 @@ def preguntados():
     import random
 
     # Cargar preguntas desde el archivo JSON
-    with open('C:/Users/Ignacio/Desktop/CARPETA FINAL/preguntas_preguntados.json', 'r', encoding='utf-8') as file:
+    with open('C:\\Users\\RaMhnZ\\Desktop\\UTN\\Programacion 1\\GIT\\TPI-FINAL\\juegos\\ramiro_preguntas_preguntados.json', 'r', encoding='utf-8') as file:
         preguntas_por_categoria = json.load(file)
 
     # Inicializamos puntajes de los jugadores en 0

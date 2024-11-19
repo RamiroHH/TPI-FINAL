@@ -208,6 +208,3 @@ def san_martin():
       print("Lo siento. Has perdido la campaña y el ejército está debilitado.")
 
    print("Fin de la historia")
-
-# Llamo a la funcion
-san_martin()
