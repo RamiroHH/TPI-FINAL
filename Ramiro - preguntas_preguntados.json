@@ -1,0 +1,265 @@
+{
+  "Geografía": [
+      {
+          "pregunta": "¿Cuál es la capital de Francia?",
+          "opciones": ["A) Londres", "B) Berlín", "C) París", "D) Madrid"],
+          "respuesta": "C"
+      },
+      {
+          "pregunta": "¿En qué continente se encuentra el río Amazonas?",
+          "opciones": ["A) África", "B) Asia", "C) América", "D) Europa"],
+          "respuesta": "C"
+      },
+      {
+          "pregunta": "¿Cuál es el desierto más grande del mundo?",
+          "opciones": ["A) Desierto de Gobi", "B) Desierto de Kalahari", "C) Desierto del Sahara", "D) Desierto de Atacama"],
+          "respuesta": "C"
+      },
+      {
+          "pregunta": "¿Qué país tiene la mayor cantidad de islas en el mundo?",
+          "opciones": ["A) Indonesia", "B) Finlandia", "C) Noruega", "D) Suecia"],
+          "respuesta": "D"
+      },
+      {
+          "pregunta": "¿Cuál es el país más pequeño del mundo?",
+          "opciones": ["A) Mónaco", "B) San Marino", "C) Ciudad del Vaticano", "D) Liechtenstein"],
+          "respuesta": "C"
+      },
+      {
+          "pregunta": "¿Cuál es el lago más profundo del mundo?",
+          "opciones": ["A) Lago Victoria", "B) Lago Baikal", "C) Lago Superior", "D) Lago Tanganica"],
+          "respuesta": "B"
+      },
+      {
+          "pregunta": "¿En qué país se encuentra el Monte Kilimanjaro?",
+          "opciones": ["A) Kenia", "B) Uganda", "C) Tanzania", "D) Etiopía"],
+          "respuesta": "C"
+      },
+      {
+          "pregunta": "¿Cuál es la capital de Australia?",
+          "opciones": ["A) Sídney", "B) Melbourne", "C) Canberra", "D) Brisbane"],
+          "respuesta": "C"
+      },
+      {
+          "pregunta": "¿Qué estrecho separa Asia de América?",
+          "opciones": ["A) Estrecho de Bering", "B) Estrecho de Gibraltar", "C) Estrecho de Malaca", "D) Estrecho de Magallanes"],
+          "respuesta": "A"
+      }
+  ],
+  "Deportes": [
+      {
+          "pregunta": "¿Qué país ganó la Copa Mundial de Fútbol 2018?",
+          "opciones": ["A) Brasil", "B) Francia", "C) Alemania", "D) Argentina"],
+          "respuesta": "B"
+      },
+      {
+          "pregunta": "¿Quién tiene el récord de más goles en la historia de la NBA?",
+          "opciones": ["A) Michael Jordan", "B) Kobe Bryant", "C) LeBron James", "D) Kareem Abdul-Jabbar"],
+          "respuesta": "D"
+      },
+      {
+          "pregunta": "¿En qué deporte destaca Usain Bolt?",
+          "opciones": ["A) Natación", "B) Atletismo", "C) Fútbol", "D) Tenis"],
+          "respuesta": "B"
+      },
+      {
+          "pregunta": "¿Cuántos jugadores tiene un equipo de fútbol en el campo?",
+          "opciones": ["A) 9", "B) 10", "C) 11", "D) 12"],
+          "respuesta": "C"
+      },
+      {
+          "pregunta": "¿En qué país se inventó el voleibol?",
+          "opciones": ["A) Brasil", "B) Estados Unidos", "C) Rusia", "D) Italia"],
+          "respuesta": "B"
+      },
+      {
+          "pregunta": "¿Cuántos puntos vale un touchdown en fútbol americano?",
+          "opciones": ["A) 4", "B) 5", "C) 6", "D) 7"],
+          "respuesta": "C"
+      },
+      {
+          "pregunta": "¿En qué año se celebraron los primeros Juegos Olímpicos modernos?",
+          "opciones": ["A) 1886", "B) 1896", "C) 1900", "D) 1904"],
+          "respuesta": "B"
+      },
+      {
+          "pregunta": "¿Qué tenista ha ganado más Grand Slams en la historia?",
+          "opciones": ["A) Roger Federer", "B) Rafael Nadal", "C) Novak Djokovic", "D) Pete Sampras"],
+          "respuesta": "C"
+      },
+      {
+          "pregunta": "¿Cuál es el deporte nacional de Japón?",
+          "opciones": ["A) Karate", "B) Judo", "C) Sumo", "D) Kendo"],
+          "respuesta": "C"
+      }
+  ],
+  "Arte": [
+      {
+          "pregunta": "¿Quién pintó la Mona Lisa?",
+          "opciones": ["A) Pablo Picasso", "B) Leonardo da Vinci", "C) Vincent van Gogh", "D) Rembrandt"],
+          "respuesta": "B"
+      },
+      {
+          "pregunta": "¿En qué país se encuentra el Museo del Prado?",
+          "opciones": ["A) Italia", "B) Francia", "C) España", "D) Alemania"],
+          "respuesta": "C"
+      },
+      {
+          "pregunta": "¿Quién es el autor de la pintura 'La persistencia de la memoria'?",
+          "opciones": ["A) Pablo Picasso", "B) Salvador Dalí", "C) Claude Monet", "D) Vincent van Gogh"],
+          "respuesta": "B"
+      },
+      {
+          "pregunta": "¿En qué ciudad se encuentra el museo Louvre?",
+          "opciones": ["A) Madrid", "B) Roma", "C) París", "D) Berlín"],
+          "respuesta": "C"
+      },
+      {
+          "pregunta": "¿Quién pintó 'La noche estrellada'?",
+          "opciones": ["A) Claude Monet", "B) Vincent van Gogh", "C) Paul Gauguin", "D) Edgar Degas"],
+          "respuesta": "B"
+      },
+      {
+          "pregunta": "¿Cuál de estos artistas es conocido por sus móviles?",
+          "opciones": ["A) Alexander Calder", "B) Henry Moore", "C) Auguste Rodin", "D) Constantin Brâncuși"],
+          "respuesta": "A"
+      },
+      {
+          "pregunta": "¿Qué artista cortó parte de su oreja?",
+          "opciones": ["A) Paul Gauguin", "B) Vincent van Gogh", "C) Pablo Picasso", "D) Claude Monet"],
+          "respuesta": "B"
+      },
+      {
+          "pregunta": "¿Quién pintó el techo de la Capilla Sixtina?",
+          "opciones": ["A) Leonardo da Vinci", "B) Rafael", "C) Miguel Ángel", "D) Donatello"],
+          "respuesta": "C"
+      },
+      {
+          "pregunta": "¿En qué siglo se desarrolló principalmente el Renacimiento?",
+          "opciones": ["A) Siglo XIV", "B) Siglo XV", "C) Siglo XVI", "D) Siglo XVII"],
+          "respuesta": "B"
+      }
+  ],
+  "Ciencia": [
+      {
+          "pregunta": "¿Cuál es el elemento químico con el símbolo H?",
+          "opciones": ["A) Helio", "B) Hidrógeno", "C) Oxígeno", "D) Carbono"],
+          "respuesta": "B"
+      },
+      {
+          "pregunta": "¿Cuántos planetas hay en el sistema solar?",
+          "opciones": ["A) 8", "B) 9", "C) 7", "D) 6"],
+          "respuesta": "A"
+      },
+      {
+          "pregunta": "¿Cuál es la velocidad de la luz en el vacío?",
+          "opciones": ["A) 300,000 km/s", "B) 150,000 km/s", "C) 299,792 km/s", "D) 250,000 km/s"],
+          "respuesta": "C"
+      },
+      {
+          "pregunta": "¿Qué científico propuso la teoría de la relatividad?",
+          "opciones": ["A) Isaac Newton", "B) Albert Einstein", "C) Galileo Galilei", "D) Niels Bohr"],
+          "respuesta": "B"
+      },
+      {
+          "pregunta": "¿Cuál es la unidad más pequeña de la materia?",
+          "opciones": ["A) Átomo", "B) Molécula", "C) Célula", "D) Quark"],
+          "respuesta": "D"
+      },
+      {
+          "pregunta": "¿Qué gas es el más abundante en la atmósfera terrestre?",
+          "opciones": ["A) Oxígeno", "B) Nitrógeno", "C) Dióxido de carbono", "D) Argón"],
+          "respuesta": "B"
+      },
+      {
+          "pregunta": "¿Cuál es el hueso más largo del cuerpo humano?",
+          "opciones": ["A) Húmero", "B) Fémur", "C) Tibia", "D) Radio"],
+          "respuesta": "B"
+      },
+      {
+          "pregunta": "¿Qué vitamina se produce en la piel gracias al sol?",
+          "opciones": ["A) Vitamina A", "B) Vitamina B", "C) Vitamina C", "D) Vitamina D"],
+          "respuesta": "D"
+      },
+      {
+          "pregunta": "¿Cuál es el metal más abundante en la corteza terrestre?",
+          "opciones": ["A) Hierro", "B) Aluminio", "C) Cobre", "D) Zinc"],
+          "respuesta": "B"
+      }
+  ],
+  "Entretenimiento": [
+      {
+          "pregunta": "¿En qué película aparece el personaje de Darth Vader?",
+          "opciones": ["A) Star Wars", "B) Avengers", "C) Harry Potter", "D) Batman"],
+          "respuesta": "A"
+      },
+      {
+          "pregunta": "¿Quién es el creador de la serie de televisión 'The Simpsons'?",
+          "opciones": ["A) Matt Groening", "B) Seth MacFarlane", "C) Trey Parker", "D) Dan Harmon"],
+          "respuesta": "A"
+      },
+      {
+          "pregunta": "¿Quién interpreta a Iron Man en las películas de Marvel?",
+          "opciones": ["A) Chris Hemsworth", "B) Chris Evans", "C) Robert Downey Jr.", "D) Mark Ruffalo"],
+          "respuesta": "C"
+      },
+      {
+          "pregunta": "¿Qué película ganó el Oscar a la Mejor Película en 2020?",
+          "opciones": ["A) Joker", "B) 1917", "C) Once Upon a Time in Hollywood", "D) Parasite"],
+          "respuesta": "D"
+      },
+      {
+          "pregunta": "¿Quién es el autor de la saga 'El Señor de los Anillos'?",
+          "opciones": ["A) C.S. Lewis", "B) J.R.R. Tolkien", "C) George R.R. Martin", "D) J.K. Rowling"],
+          "respuesta": "B"
+      },
+      {
+          "pregunta": "¿Cuál fue la primera película de Disney?",
+          "opciones": ["A) Blancanieves", "B) Pinocho", "C) Bambi", "D) Dumbo"],
+          "respuesta": "A"
+      },
+      {
+          "pregunta": "¿Qué banda lanzó el álbum 'The Dark Side of the Moon'?",
+          "opciones": ["A) The Beatles", "B) Led Zeppelin", "C) Pink Floyd", "D) The Rolling Stones"],
+          "respuesta": "C"
+      },
+      {
+          "pregunta": "¿En qué año se estrenó la primera temporada de Friends?",
+          "opciones": ["A) 1992", "B) 1993", "C) 1994", "D) 1995"],
+          "respuesta": "C"
+      },
+      {
+          "pregunta": "¿Quién es el actor principal en la película 'El Padrino'?",
+          "opciones": ["A) Al Pacino", "B) Robert De Niro", "C) Marlon Brando", "D) James Caan"],
+          "respuesta": "C"
+      }
+  ],
+  "Historia": [
+      {
+          "pregunta": "¿En qué año se firmó la Declaración de Independencia de Estados Unidos?",
+          "opciones": ["A) 1776", "B) 1789", "C) 1800", "D) 1812"],
+          "respuesta": "A"
+      },
+      {
+          "pregunta": "¿Quién fue el primer emperador romano?",
+          "opciones": ["A) Julio César", "B) Nerón", "C) César Augusto", "D) Calígula"],
+          "respuesta": "C"
+      },
+      {
+          "pregunta": "¿Quién fue el líder del Imperio Mongol en su máxima expansión?",
+          "opciones": ["A) Gengis Kan", "B) Kublai Kan", "C) Tamerlán", "D) Attila"],
+          "respuesta": "A"
+      },
+      {
+          "pregunta": "¿En qué año cayó el Muro de Berlín?",
+          "opciones": ["A) 1987", "B) 1988", "C) 1989", "D) 1990"],
+          "respuesta": "C"
+      },
+      {
+          "pregunta": "¿Quién fue el primer presidente de México?",
+          "opciones": ["A) Benito Juárez", "B) Guadalupe Victoria", "C) Antonio López de Santa Anna", "D) Porfirio Díaz"],
+          "respuesta": "B"
+      }
+    ]
+}
+
